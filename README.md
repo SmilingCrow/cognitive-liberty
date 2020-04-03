@@ -1,2 +1,2 @@
 # cognitive-liberty
-This is a test on 4/3/2020
+Welcome, please see the wiki for content.
