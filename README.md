@@ -1,2 +1,2 @@
 # cognitive-liberty
-Welcome, please see the wiki for content.
+Welcome, please see the wiki (above) for content.
